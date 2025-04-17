@@ -1,0 +1,2 @@
+fincalc readme
+This line of code is interesting because it uses the loan amount, interest rate, and number of months to figure out a steady monthly payment. Even though it looks complex, it’s just doing the math behind loans that banks and people use all the time. Another interesting factor of this line is the importance. If you mess up a single letter in this line, even if you have thousands of other lines of code, it'll mess everything up. 
